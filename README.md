@@ -1,3 +1,7 @@
+## R dependencies
+1. optparse
+2. GenomicRanges
+
 ## How to use
 
 ```bash
